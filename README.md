@@ -5,6 +5,7 @@ Sustainable tourism is about fostering a deeper connection between travelers and
 # Workflow diagram
 ![screenshot](./screenshot.png)
 # Concept Map
+![screenshot](./1.png)
 # Tech Stack
 HTML - Structure of website, 
 CSS - Website Design, 
