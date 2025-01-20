@@ -1,6 +1,6 @@
 # Sustainable-Tourism
 
-## Brief intro
+# Brief intro
 Sustainable tourism is about fostering a deeper connection between travelers and the authentic essence of India. It invites people to explore the unseen corners of the country, from hidden villages to untouched natural wonders, while respecting the environment and local cultures. By immersing in the unique traditions, art, and handicrafts of each state, travelers not only support the preservation of India's rich heritage but also empower local artisans and communities. This journey blends exploration with responsibility, offering meaningful experiences that celebrate India's diversity while ensuring its treasures thrive for generations to come.
 # Workflow diagram
 ![screenshot](./screenshot.png)
